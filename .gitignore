@@ -34,3 +34,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# For Mac
+.DS_Store
+
+# For Rider
+.idea/
+Assets/Plugins/Editor/JetBrains*
